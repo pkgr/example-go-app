@@ -1,1 +1,1 @@
-web: ./example-go-app
+web: ./bin/example-go-app
