@@ -1,1 +1,1 @@
-web: main
+web: ./example-go-app
